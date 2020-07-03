@@ -3,3 +3,5 @@ images/
 *.pkl
 *.dot
 *.h5
+my_logs/
+*.ckpt.*
